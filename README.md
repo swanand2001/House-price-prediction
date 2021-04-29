@@ -1,7 +1,22 @@
 # House-price-prediction
+
+
+
+
 Name:Swanand Mukund Apte
+
+
+
 Class:Second Year(SY)
+
+
+
+
 Course:Computer Engineering Bachelor of Technology(BTech)
+
+
+
+
 Faculty name:Pradnya Bhangale
 College name:KJ Somaiya College of Engineering(KJSCE)
 
