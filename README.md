@@ -39,9 +39,9 @@
 2)Random Forest Regression-A Random Forest is an ensemble technique capable of performing both regression and classification tasks with the use of multiple decision trees and a technique called Bootstrap and Aggregation, commonly known as bagging. The basic idea behind this is to combine multiple decision trees in determining the final output rather than relying on individual decision trees.
 
 **Prerequisites:**
-A system running Windows 10
-Anaconda Navigator
-Command Prompt
+-A system running Windows 10
+-Anaconda Navigator
+-Command Prompt
 
 
 #### Install Anaconda Navigator:
