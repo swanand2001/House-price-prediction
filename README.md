@@ -1,4 +1,4 @@
-# House-price-prediction
+<h1 align="center">House-price-prediction</h1>
 
 **Name**:Swanand Mukund Apte
 
