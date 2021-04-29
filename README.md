@@ -9,12 +9,13 @@
 **Faculty name**:Prof.Pradnya Bhangale,Prof.Vaibhav Vasani
 
 **College name**:KJ Somaiya College of Engineering(KJSCE)
+<br>
 
 ### What is Machine Learning?
 
 
 “Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.”
-
+<br>
 
 ### Techniques used for modelling
 
