@@ -17,7 +17,11 @@ Course:Computer Engineering Bachelor of Technology(BTech)
 
 
 
-Faculty name:Pradnya Bhangale
+Faculty name:Prof.Pradnya Bhangale,Prof.Vaibhav Vasani
+
+
+
+
 College name:KJ Somaiya College of Engineering(KJSCE)
 
 
