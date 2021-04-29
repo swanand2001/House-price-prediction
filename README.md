@@ -44,13 +44,13 @@ Anaconda Navigator
 Command Prompt
 
 
-####Install Anaconda Navigator:
+#### Install Anaconda Navigator:
 1)Download Anaconda. We recommend downloading Anaconda's latest Python 3 version (currently Python 3.5).
 2)Install the version of Anaconda which you downloaded, following the instructions on https://docs.anaconda.com/anaconda/install/windows/
 3)Import the necessary libraries from the command prompt if required
 
 
-###Running the project
+### Running the project
 1)Open Command Prompt
 2)Clone the repository:
 3)Open Anaconda Navigator
