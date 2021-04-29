@@ -1,30 +1,14 @@
 # House-price-prediction
 
-
-
-
 **Name**:Swanand Mukund Apte
-
-
 
 **Class**:Second Year(SY)
 
-
-
-
 **Course**:Computer Engineering Bachelor of Technology(BTech)
-
-
-
 
 **Faculty name**:Prof.Pradnya Bhangale,Prof.Vaibhav Vasani
 
-
-
-
 **College name**:KJ Somaiya College of Engineering(KJSCE)
-
-
 
 **What is Machine Learning?**__
 
@@ -46,23 +30,25 @@
 
 #### Install Anaconda Navigator:
 1)Download Anaconda. We recommend downloading Anaconda's latest Python 3 version (currently Python 3.5).
+
 2)Install the version of Anaconda which you downloaded, following the instructions on https://docs.anaconda.com/anaconda/install/windows/
+
 3)Import the necessary libraries from the command prompt if required
 
 
 ### Running the project
 
--1)Open Command Prompt
+1)Open Command Prompt
 
--2)Clone the repository:
+2)Clone the repository:
 
--3)Open Anaconda Navigator
+3)Open Anaconda Navigator
 
--4)Open Jupyter Notebook
+4)Open Jupyter Notebook
 
--5)Open the cloned folder in the jupyter notebook
+5)Open the cloned folder in the jupyter notebook
 
--6)Run each cell of the rdbms-ia2.ipynb file
+6)Run each cell of the rdbms-ia2.ipynb file
 
 
 
