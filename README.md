@@ -51,11 +51,17 @@
 
 
 ### Running the project
+
 -1)Open Command Prompt
+
 -2)Clone the repository:
+
 -3)Open Anaconda Navigator
+
 -4)Open Jupyter Notebook
+
 -5)Open the cloned folder in the jupyter notebook
+
 -6)Run each cell of the rdbms-ia2.ipynb file
 
 
