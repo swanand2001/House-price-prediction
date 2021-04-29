@@ -43,7 +43,7 @@
 
 1)Open Command Prompt
 
-2)Clone the repository:
+2)Clone the repository:https://github.com/swanand2001/House-price-prediction.git
 
 3)Open Anaconda Navigator
 
